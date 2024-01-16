@@ -1,0 +1,62 @@
+*ROBLOX WORK PORTOFOLIO*
+
+***Intro***
+
+Hello, I am *Cloudy(known as satan and more names)*, I am a scripter and I specialize in some programming languages. I have worked at numerous front-page games etc, ask me in dms. My timing is AEST.
+**SkillSet**
+
+I have been scripting on the ROBLOX platform for almost 4-7 years now. I can code in any style you prefer such as object-orienting programming (OOP), Module/Functions programming etc. I know both back-end and front-end scripting. I can code anything you want me to and in any style u want me to code it in. If you don't know anything about scripting, no worries, my scripting style is very easy to understand and very clean. I can work both as a team player or solo.
+
+
+Including:
+
+• DataStores, Inventories, All Types of Datastore Frameworks.
+• Shops/NPCs.
+• Mounts/Vehicles.
+• AI (Advanced/Normal/Custom).
+• UIs.
+• Complete Back-Ends.
+• Complete Front-Ends.
+• Your Own Frameworks.
+• Plot System.
+• Zones.
+• Vehicles, Mounts.
+• Weapons, Guns, FPS.
+• Combat Structures, Full Game Stuctures, Game Combat Systems.
+• etc.
+I can make you full games, can be any genre. you have to explain it good enough for me to understand the types of systems/frameworks it will require.
+
+Games i have worked on:
+
+• Worked on countless games front page games, you can look me onto some. you can ask for details in my dms.
+My working style is clean and sorted, so it will be easier to understand and edit. You wouldn't have any complaints against the scripts i deliver.
+
+PAST WORK (these don't represent me, as they are commissions i did, i dont save or post my commissions often)
+
+Soon to be added. This will be updated very soon, but before it does you can check me out in the servers above etc.
+Recent Commissions (These aren't completed commissions, they are just some parts i am posting):
+• Some game i am making (Combat system test): https://i.gyazo.com/1b095c4a339c5910b82955f7c113da33.mp4
+• Another Arena (1v1): https://streamable.com/t2xqym, https://streamable.com/fjpd3x, https://streamable.com/fjpd3x
+• Settings UI (Planets): https://i.gyazo.com/8975d8894836bc2132c11587962d8699.mp4, https://i.gyazo.com/f9d9be5339d071bb6078c390f01b7334.mp4
+• Time Stealing Sim: https://i.gyazo.com/758d5ec3e36a51b6d8924a11b536eaae.mp4, https://i.gyazo.com/5508606bcaed24f24b18c232425e34f7.mp4
+• Speed Sim: https://i.gyazo.com/29cf0c532851c949340612d1401ef190.mp4, https://i.gyazo.com/c39c1b4c60b65219ca0ac03695f87f87.mp4
+• Stairs Of Hell (Tycoon): https://streamable.com/gxpkcu
+• Morph: https://streamable.com/8wpnf1
+• Deploy System: https://streamable.com/j1itvv
+• Ladders Sim: https://streamable.com/jeu6nn
+• Tycoon Building: https://streamable.com/oe4bsw
+• AIs Optimizations Test: https://i.gyazo.com/a0fe3b40050d40091284973b7c9b7995.mp4
+• AIs Mini Combat & Optimization Test: https://cdn.discordapp.com/attachments/1110475601783042068/1160247569830641724/swtwntest_2023-10-07_21-08-12-310.mp4
+• Combat Game Framework & Ability Test: https://cdn.discordapp.com/attachments/1110475601783042068/1110475841349111844/Gyutaro_Slashes.mp4
+• First Person Realistic Movement Test: https://cdn.discordapp.com/attachments/1109177900130910298/1110485999873699900/CameraTilt.mp4
+Availability
+
+I am available all day. but if you message me and i don't reply, please wait a bit since i am either sleeping or busy at some other project.
+Contact:
+
+***Discord: subtobezor***
+Payment: tbd
+
+I would like to take a commited half/full payment upfront. (I may not, we can clarify this in DMs) I don't take % unless its really worth it since i don't want to waste either mine or your time. this way we both will be commited to our work.
+Prices depends on the work.
+Thank you for reading this
